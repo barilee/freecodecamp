@@ -1,2 +1,2 @@
-# freecodecamp-sources
-This repository is used as storage to hold the source-code of my freecodecamp tutorial tasks or assignments.
+# freecodecamp
+This is a personal repository is used as storage for my freecodecamp tutorials.
